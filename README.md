@@ -7,6 +7,8 @@ Similaritity checks:
 - Sharing any of the Official Languages
 - Same Car driving side
 
+Steps to follow:
+
 1. Install the below package before executing the code
 ```
   pip install requests
